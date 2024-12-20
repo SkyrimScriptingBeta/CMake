@@ -1,2 +1,1 @@
-# CMake
-CMake for Skyrim modding
+> Doesn't do anything yet, check back.
